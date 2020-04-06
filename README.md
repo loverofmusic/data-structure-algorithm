@@ -1,9 +1,9 @@
 # data-structure-algorithm
 
-数据结构与算法练习与整理
-leetcode 练习
-es6编写代码
-jest做单元测试
+- 数据结构与算法练习与整理
+- leetcode 练习
+- es6编写代码
+- jest做单元测试
 
 ## 简单算法
 
